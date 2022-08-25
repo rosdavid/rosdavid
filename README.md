@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosdavid&label=Profile%20views&color=0e75b6&style=flat" alt="rosdavid" /> </p>
 
-- 🔭 I’m currently working on **rolibee.** and **DINEGOO.**
+- 🔭 I’m currently working on **rolibee.**, **el pernilet** and **DINEGOO.**
 
 - 🌱 I’m currently learning **Python, React, Angular, Go, NodeJS, NestJS, ReactNative, Kotlin, Flutter, Dart** and **AWS**
 
