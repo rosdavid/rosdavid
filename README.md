@@ -87,14 +87,4 @@ A 23 years old Junior Frontend Developer and UX/UI Designer with an insatiable p
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=rosdavid&&style=flat-square" align="right" />
-</div>  
-  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314b6joedg7p4o2xss7uhkkyovty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)  
-
-<br/>  
-
-
-<br />
-
-----
+</div>
