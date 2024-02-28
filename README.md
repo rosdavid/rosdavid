@@ -18,7 +18,7 @@ A 23 years old Junior Frontend Developer and UX/UI Designer with an insatiable p
 
 - 🔭 I’m currently working on [liquoly](https://liquoly.com)  
   
-- 🌱 I’m currently learning Angular, React and Next.JS.  
+- 🌱 I’m currently learning Angular and React.  
   
 - ❓ Ask me about anything related to music, videogames and films.  
   
