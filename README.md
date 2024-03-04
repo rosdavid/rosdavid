@@ -16,7 +16,7 @@ A 23 years old Junior Frontend Developer and UX/UI Designer with an insatiable p
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [liquoly](https://liquoly.com)  
+- 🔭 I’m currently working on [GestNote](https://github.com/rosdavid/GestNote)  
   
 - 🌱 I’m currently learning Angular and React.  
   
