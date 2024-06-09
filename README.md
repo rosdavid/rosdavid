@@ -9,7 +9,7 @@
 ## Hey 👋, I'm David Ros!  
 
 ### Glad to see you here!  
-A 23 years old Junior Frontend Developer and UX/UI Designer with an insatiable passion for technology and creativity. Since my self-taught beginnings at the age of 11 in the world of programming, I've been immersed in the exciting journey of bringing ideas to life through lines of code. My unwavering curiosity has led me to explore and learn in the realm of web development, while combining my love for music, video games and film every step of the way.  
+Frontend Developer and UX/UI Designer with an insatiable passion for technology and creativity. Since my self-taught beginnings at the age of 11 in the world of programming, I've been immersed in the exciting journey of bringing ideas to life through lines of code. My unwavering curiosity has led me to explore and learn in the realm of web development, while combining my love for music, video games and film every step of the way.  
 
 <br/>  
 
